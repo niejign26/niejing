@@ -1,0 +1,13 @@
+package com.nj.didi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RedisAuthApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RedisAuthApplication.class, args);
+	}
+
+}

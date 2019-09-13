@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Hello"/>
+<aop-project name="redis-auth"/>
+<aop-project name="bootdo"/>
+<aop-project name="eureka-server"/>
+<aop-project name="ribbon-consumer"/>
+<aop-project name="api-gateway"/>
+</aop-reference-model>

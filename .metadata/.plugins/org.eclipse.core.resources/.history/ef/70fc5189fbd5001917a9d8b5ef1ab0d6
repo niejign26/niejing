@@ -1,0 +1,24 @@
+package com.nj.didi.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.nj.didi.utils.RedisManager;
+
+/**
+ * @author bootdo 1992lcg@163.com
+ */
+@Configuration
+public class redisConfig {
+
+    @Bean
+    public RedisManager redisManager() {
+        RedisManager redisManager = new RedisManager();
+        redisManager.init();
+        return redisManager;
+    }
+
+
+
+
+}

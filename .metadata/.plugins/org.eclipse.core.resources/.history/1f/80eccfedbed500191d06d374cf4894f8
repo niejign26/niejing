@@ -1,0 +1,5 @@
+package com.nj.didi.service;
+
+public class AuthService {
+
+}

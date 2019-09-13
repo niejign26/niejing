@@ -1,0 +1,17 @@
+package com.nj.didi.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.nj.didi.service.AuthService;
+
+@Controller
+public class AuthController {
+
+	@Autowired
+	private AuthService authService;
+	
+	public ReturnVo save(){
+		
+	}
+}

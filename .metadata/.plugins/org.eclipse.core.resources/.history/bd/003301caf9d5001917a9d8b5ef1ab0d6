@@ -1,0 +1,13 @@
+package com.nj.didi.service;
+
+import org.springframework.stereotype.Service;
+
+import com.nj.didi.utils.RedisManager;
+
+@Service
+public class RedisService {
+
+	private RedisManager redisManager;
+	
+	
+}
