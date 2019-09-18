@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;material&apos;" deleteContents="true" description="Delete resource &apos;material&apos;" element1="/material" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1568291289659"/>&#x0A;<refactoring comment="Delete 4 resources" deleteContents="true" description="Delete 4 resources" element1="/spring-data-mongodb" element2="/spring-data-mongodb-benchmarks" element3="/spring-data-mongodb-distribution" element4="/spring-data-mongodb-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1568348245023"/>
-</session>

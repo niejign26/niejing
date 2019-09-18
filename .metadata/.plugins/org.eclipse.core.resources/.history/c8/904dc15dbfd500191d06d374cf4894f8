@@ -1,8 +1,0 @@
-package com.nj.didi.vo;
-
-public class ReturnVo {
-
-	private returnCode;
-	private returnMsg;
-	
-}
